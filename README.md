@@ -1,6 +1,6 @@
 # list-keeper
 
-list-keeper is a simple front-end application to store and manipulate lists.
+list-keeper is a simple front-end application written in Angular to store and manipulate lists.
 Hit enter to submit a text or search field, and use the buttons to navigate and move
 lists around.
 
