@@ -16,9 +16,7 @@ from the child ListComponents to manipulate them.
 
 ## Build and deploy for testing (Angular)
 
-To run, make sure to first install Angular 2+.
-
-Homebrew: `brew install angular`
+To run, make sure to first install Angular 2+. Homebrew: `brew install angular`
 
 From the parent directory, run `ng build` to build the project. Then, run `ng serve` to test on a dev server.
 
